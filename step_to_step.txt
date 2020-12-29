@@ -1,0 +1,6 @@
+dir root:
+npm init -y
+npm install webpack webpack-cli --save-dev
+npm install --save loadsh
+
+

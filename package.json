@@ -1,0 +1,27 @@
+{
+  "name": "certificado_digital_openssl",
+  "version": "0.0.1",
+  "description": "You can use the [editor on GitHub](https://github.com/Jofrantoba-Coding/certificado_digital_openssl/edit/main/README.md) to maintain and preview the content for your website in Markdown files.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jofrantoba-Coding/certificado_digital_openssl.git"
+  },
+  "keywords": [],
+  "author": "jofrantoba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jofrantoba-Coding/certificado_digital_openssl/issues"
+  },
+  "homepage": "https://github.com/Jofrantoba-Coding/certificado_digital_openssl#readme",
+  "devDependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0"
+  },
+  "dependencies": {
+    "loadsh": "0.0.4"
+  }
+}
